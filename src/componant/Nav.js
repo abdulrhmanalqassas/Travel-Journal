@@ -2,8 +2,9 @@ import React from "react";
 
 export default function Nav(){
     return(
-        <nav>
-            <h1> thnis is my nav </h1>
+        <nav className="nav">
+            <img src="../img/Fill 213.png" alt=""/>
+            <h1> my travel journal. </h1>
         </nav>
     )
 }
